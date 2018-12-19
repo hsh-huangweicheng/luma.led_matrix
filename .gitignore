@@ -61,3 +61,4 @@ target/
 
 # OSX
 .DS_Store
+/.idea
